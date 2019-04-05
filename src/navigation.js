@@ -7,6 +7,7 @@ class Navigation extends React.Component {
         <div>
          <NavLink to="/SimpleApp"> SimpleApp </NavLink>
          <NavLink to="/Redux"> SimpleRedux </NavLink>
+         <NavLink to="/"> Home </NavLink>
         </div>
     );
   }
