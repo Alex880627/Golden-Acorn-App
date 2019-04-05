@@ -24,6 +24,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
     "redux": "^4.0.1"
   },
   "devDependencies": {
@@ -31,8 +32,8 @@
     "@babel/preset-env": "^7.4.2",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.5",
-    "redux-devtools-extension": "^2.13.8",
     "eslint": "^5.16.0",
+    "redux-devtools-extension": "^2.13.8",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1"
